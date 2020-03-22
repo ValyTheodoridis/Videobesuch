@@ -1,3 +1,4 @@
 # Videobesuch
 
-Wir helfen Altenheim-Bewohnern, in Zeiten von Corona per Videochat Besuch zu bekommen.
+Wir helfen Bewohnern in Pflegeeinrichtungen per Video-Chat Ihre liebsten zu besuchen (in Zeiten von Corona).
+
